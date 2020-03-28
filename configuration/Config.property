@@ -1,0 +1,4 @@
+chromeDriver="D:\\ctsonline\\src\\test\\resources\\binaries\\chromedriver.exe";
+firefoxDriver="D:\ctsonline\src\test\resources\binaries\geckodriver.exe";
+URL="https://www.facebook.com/"
+
